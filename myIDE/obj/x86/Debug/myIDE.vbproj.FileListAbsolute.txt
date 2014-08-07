@@ -1,0 +1,13 @@
+c:\users\sony\documents\visual studio 2010\Projects\myIDE\myIDE\bin\Debug\myIDE.exe
+c:\users\sony\documents\visual studio 2010\Projects\myIDE\myIDE\bin\Debug\myIDE.pdb
+c:\users\sony\documents\visual studio 2010\Projects\myIDE\myIDE\bin\Debug\myIDE.xml
+c:\users\sony\documents\visual studio 2010\Projects\myIDE\myIDE\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\sony\documents\visual studio 2010\Projects\myIDE\myIDE\obj\x86\Debug\myIDE.Resources.resources
+c:\users\sony\documents\visual studio 2010\Projects\myIDE\myIDE\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\sony\documents\visual studio 2010\Projects\myIDE\myIDE\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\sony\documents\visual studio 2010\Projects\myIDE\myIDE\obj\x86\Debug\myIDE.exe
+c:\users\sony\documents\visual studio 2010\Projects\myIDE\myIDE\obj\x86\Debug\myIDE.xml
+c:\users\sony\documents\visual studio 2010\Projects\myIDE\myIDE\obj\x86\Debug\myIDE.pdb
+c:\users\sony\documents\visual studio 2010\Projects\myIDE\myIDE\obj\x86\Debug\myIDE.problemForm.resources
+c:\users\sony\documents\visual studio 2010\Projects\myIDE\myIDE\obj\x86\Debug\myIDE.loginForm.resources
+c:\users\sony\documents\visual studio 2010\Projects\myIDE\myIDE\obj\x86\Debug\myIDE.codeForm.resources

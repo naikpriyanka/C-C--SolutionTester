@@ -1,0 +1,42 @@
+C:\Users\Sony\Documents\Visual Studio 2010\Projects\myIDE\myIDE\bin\Debug\myIDE.exe.config
+C:\Users\Sony\Documents\Visual Studio 2010\Projects\myIDE\myIDE\bin\Debug\myIDE.exe.manifest
+C:\Users\Sony\Documents\Visual Studio 2010\Projects\myIDE\myIDE\bin\Debug\myIDE.application
+C:\Users\Sony\Documents\Visual Studio 2010\Projects\myIDE\myIDE\bin\Debug\myIDE.exe
+C:\Users\Sony\Documents\Visual Studio 2010\Projects\myIDE\myIDE\bin\Debug\myIDE.pdb
+C:\Users\Sony\Documents\Visual Studio 2010\Projects\myIDE\myIDE\bin\Debug\myIDE.xml
+C:\Users\Sony\Documents\Visual Studio 2010\Projects\myIDE\myIDE\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Sony\Documents\Visual Studio 2010\Projects\myIDE\myIDE\obj\x86\Debug\myIDE.allProblemsForm.resources
+C:\Users\Sony\Documents\Visual Studio 2010\Projects\myIDE\myIDE\obj\x86\Debug\myIDE.problemForm.resources
+C:\Users\Sony\Documents\Visual Studio 2010\Projects\myIDE\myIDE\obj\x86\Debug\myIDE.codeForm.resources
+C:\Users\Sony\Documents\Visual Studio 2010\Projects\myIDE\myIDE\obj\x86\Debug\myIDE.loginForm.resources
+C:\Users\Sony\Documents\Visual Studio 2010\Projects\myIDE\myIDE\obj\x86\Debug\myIDE.Resources.resources
+C:\Users\Sony\Documents\Visual Studio 2010\Projects\myIDE\myIDE\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Sony\Documents\Visual Studio 2010\Projects\myIDE\myIDE\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Sony\Documents\Visual Studio 2010\Projects\myIDE\myIDE\obj\x86\Debug\myIDE.TrustInfo.xml
+C:\Users\Sony\Documents\Visual Studio 2010\Projects\myIDE\myIDE\obj\x86\Debug\myIDE.exe.manifest
+C:\Users\Sony\Documents\Visual Studio 2010\Projects\myIDE\myIDE\obj\x86\Debug\myIDE.application
+C:\Users\Sony\Documents\Visual Studio 2010\Projects\myIDE\myIDE\obj\x86\Debug\myIDE.exe
+C:\Users\Sony\Documents\Visual Studio 2010\Projects\myIDE\myIDE\obj\x86\Debug\myIDE.xml
+C:\Users\Sony\Documents\Visual Studio 2010\Projects\myIDE\myIDE\obj\x86\Debug\myIDE.pdb
+C:\Users\Sony\Documents\Visual Studio 2010\Projects\myIDE\myIDE\obj\x86\Debug\myIDE.adminForm.resources
+C:\Users\Sony\Documents\Visual Studio 2010\Projects\myIDE\myIDE\obj\x86\Debug\myIDE.consoleForm.resources
+C:\MKPD\myIDE\myIDE\bin\Debug\myIDE.exe.config
+C:\MKPD\myIDE\myIDE\obj\x86\Debug\myIDE.exe
+C:\MKPD\myIDE\myIDE\obj\x86\Debug\myIDE.xml
+C:\MKPD\myIDE\myIDE\obj\x86\Debug\myIDE.pdb
+C:\MKPD\myIDE\myIDE\bin\Debug\myIDE.exe.manifest
+C:\MKPD\myIDE\myIDE\bin\Debug\myIDE.application
+C:\MKPD\myIDE\myIDE\bin\Debug\myIDE.exe
+C:\MKPD\myIDE\myIDE\bin\Debug\myIDE.pdb
+C:\MKPD\myIDE\myIDE\bin\Debug\myIDE.xml
+C:\MKPD\myIDE\myIDE\obj\x86\Debug\myIDE.allProblemsForm.resources
+C:\MKPD\myIDE\myIDE\obj\x86\Debug\myIDE.adminForm.resources
+C:\MKPD\myIDE\myIDE\obj\x86\Debug\myIDE.consoleForm.resources
+C:\MKPD\myIDE\myIDE\obj\x86\Debug\myIDE.problemForm.resources
+C:\MKPD\myIDE\myIDE\obj\x86\Debug\myIDE.codeForm.resources
+C:\MKPD\myIDE\myIDE\obj\x86\Debug\myIDE.loginForm.resources
+C:\MKPD\myIDE\myIDE\obj\x86\Debug\myIDE.Resources.resources
+C:\MKPD\myIDE\myIDE\obj\x86\Debug\myIDEProject.vbproj.GenerateResource.Cache
+C:\MKPD\myIDE\myIDE\obj\x86\Debug\myIDE.TrustInfo.xml
+C:\MKPD\myIDE\myIDE\obj\x86\Debug\myIDE.exe.manifest
+C:\MKPD\myIDE\myIDE\obj\x86\Debug\myIDE.application

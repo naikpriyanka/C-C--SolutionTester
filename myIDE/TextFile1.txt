@@ -1,0 +1,15 @@
+﻿Small Things to do:
+1) All Exception handling
+2) On close event of all forms
+3) Solution testing problem for first run attempt
+
+
+Remaining Tasks:
+1) Better Message box
+2) All Problems for admin
+3) Good Our own problem statements before uploading
+4) Multiple users
+5) Solved Problems flag
+6) Line numbering for Code
+7) Status bar
+8) Syntsx highlighter
